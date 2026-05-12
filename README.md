@@ -69,7 +69,7 @@ Feche o terminal e abra novamente o **MSYS2 UCRT64**.
 
 ```bash
 pacman -S mingw-w64-ucrt-x86_64-gcc
-pacman -S mingw-w64-ucrt-x86_64-sfml
+pacman -S mingw-w64-ucrt-x86_64-sfml2
 ```
 
 ---
